@@ -1,0 +1,8 @@
+
+Test logging system, make sure it meets the requirements
+Make sure package.json is formatted correctly - Why does npm run give me echo \"Error: no test specified\" && exit 1 and is it a big deal (probably not) (Check week4 reference)
+Clean up comments
+
+THEN...
+Do that extra bonus question with the npm weather package, if there's time.
+
