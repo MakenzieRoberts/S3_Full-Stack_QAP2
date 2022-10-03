@@ -9,7 +9,6 @@
 	"author": "Makenzie Roberts",
 	"license": "ISC",
 	"dependencies": {
-		"@cicciosgamino/openweather-apis": "^5.2.0",
 		"date-fns": "^2.29.3",
 		"uuid": "^9.0.0"
 	}
