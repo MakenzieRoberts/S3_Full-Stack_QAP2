@@ -12,6 +12,6 @@ _____________________
   > ```npm install```
 
 2. Then to **run the server**, enter the command:
-  > ```npm index```
+  > ```node index```
 
 3. To **stop the server**, press ```CTRL + C``` on your keyboard.
